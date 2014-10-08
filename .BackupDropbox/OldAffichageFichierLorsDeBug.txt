@@ -1,0 +1,16 @@
+-rw-rw-r-- 1 rayanox rayanox 1970441186 mai   31 03:31 1_Backup-Dropbox___31-4-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1970441188 juin   1 03:03 1_Backup-Dropbox___1-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1972144374 juin   4 03:03 1_Backup-Dropbox___4-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1972144261 juin   7 03:03 1_Backup-Dropbox___7-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1972144261 juin  10 03:03 1_Backup-Dropbox___10-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1972144261 juin  13 03:03 1_Backup-Dropbox___13-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1972144261 juin  16 03:04 1_Backup-Dropbox___16-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1973508145 juin  19 03:04 1_Backup-Dropbox___19-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1973506170 juin  22 03:03 1_Backup-Dropbox___22-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1973506170 juin  25 03:03 1_Backup-Dropbox___25-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1973506170 juin  28 03:03 1_Backup-Dropbox___28-5-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox 1491152896 juil.  1 03:03 1_Backup-Dropbox___1-6-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox    1101824 juil.  4 03:00 1_Backup-Dropbox___4-6-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox          0 juil. 19 03:00 1_Backup-Dropbox___19-6-2014.tar.gz
+-rw-rw-r-- 1 rayanox rayanox          0 juil. 22 03:00 1_Backup-Dropbox___22-6-2014.tar.gz
+
